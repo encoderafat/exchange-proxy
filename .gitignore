@@ -1,7 +1,9 @@
 build
 node_modules
 .idea/*
-.env
 coverage.json
 coverage/
 yarn-error.log
+crytic-export
+mcore_*
+.secret
